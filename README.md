@@ -1,4 +1,5 @@
 # Json-base-inventory-manegement-system
+It is basicly a inventory in which two mode user which can buy any thing from inventory and other mode is shopkeeper mode to add or update new item in store
 Adding_new_product=In this file we as shopkeeper update or add item in out inventory
 here, we use if condition to check whether product already exit or not if exit then we update that or if not exit then we add new product in inventory
 
